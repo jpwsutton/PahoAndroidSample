@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.eclipse.paho.android.service-1.0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.android.service/1.0.3-SNAPSHOT/9baa1caa662e414cb3639244b83e6c541eadf173/org.eclipse.paho.android.service-1.0.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.android.service/1.0.3-SNAPSHOT/96b658834a31a193986ee5374ee56f05567c441/org.eclipse.paho.android.service-1.0.3-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
